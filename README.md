@@ -1,6 +1,4 @@
-# Startup-Health-Score
-
-Startup Health Scoring Model
+# Startup Health Scoring Model
 
 The given task outlines the methodology used to create a composite health score for 100 startups, similar to a credit score. 
 The goal is to evaluate startup potential based on the indicators provided in the dataset.
